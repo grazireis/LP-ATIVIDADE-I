@@ -1,17 +1,17 @@
-Algoritmo "Codoperação"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "CodoperaÃ§Ã£o"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor    : Carlos Anderson
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Grazielli Salles
 // Data atual  : 04/09/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    a:inteiro
    B:inteiro
    c:inteiro
    Operacao:caracter
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    escreva("Digite o valor de A:")
    leia(a)
    limpatela
@@ -20,7 +20,7 @@ Inicio
    leia(b)
    limpatela
 
-   escreva("Digite a operação (+ - * /):")
+   escreva("Digite a operaÃ§Ã£o (+ - * /):")
    leia(operacao)
    limpatela
 
@@ -37,5 +37,5 @@ Inicio
       c <- a-b
    fimse
 
-   escreval("o resultado é :",c)
+   escreval("o resultado Ã© :",c)
 Fimalgoritmo
