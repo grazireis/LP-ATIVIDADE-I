@@ -1,16 +1,16 @@
 Algoritmo "Media Aluno"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   :  Carlos Anderson
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Grazielli Salles
 // Data atual  : 30/08/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    notaum:real
    notadois:real
    media:real
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    escreva("Digite sua primeira nota:")
    leia(notaum)
 
@@ -20,13 +20,13 @@ Inicio
    media <-(notaum+notadois) / 2
    
    se (media >= 4.0)e( media < 6.0)entao
-      escreval("Você está de recuperação")
+      escreval("VocÃª estÃ¡ de recuperaÃ§Ã£o")
    fimse
    se(media >=6)entao
-      escreval("Você foi aprovado)
+      escreval("VocÃª foi aprovado)
    fimse
    se(media <4.0)entao
-      escreval("você foi reprovado")
+      escreval("vocÃª foi reprovado")
    fimse
    
    escreval("media:",media)
