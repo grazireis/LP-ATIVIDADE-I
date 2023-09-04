@@ -1,18 +1,18 @@
 Algoritmo "Valores A,B=C"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Carlos Anderson
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Grazielli Salles
 // Data atual  : 30/08/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    a:real
    b:real
    c:real
 
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    escreva("Digite o valor de A:")
    leia(a)
    limpatela
@@ -27,7 +27,7 @@ Inicio
       c <-(a*b)
    fimse
 
-   escreval("O valor de C é:",c)
+   escreval("O valor de C Ã©:",c)
 
 
 
